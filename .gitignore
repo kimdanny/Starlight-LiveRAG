@@ -1,0 +1,37 @@
+.DS_Store
+__pycache__/
+
+# env
+.env
+
+# data
+data/datamorgana/
+data/full-recall/
+data/router-training/
+
+# output files
+*.json
+
+# scripts
+scripts/
+
+# log files from slurm jobs
+logs/
+
+# dataset
+*.csv
+*.tsv
+*pkl
+
+# cache
+data-gym-cache/
+
+# live testing
+drytest/
+liveday/
+
+# trained models
+trained-ltrr-models/
+
+# downstream results
+downstream_results/

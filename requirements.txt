@@ -1,0 +1,11 @@
+torch==2.5.1
+transformers==4.45.2
+boto3==1.35.88
+pinecone==5.4.2
+opensearch-py==2.8.0
+ai71==0.0.23
+ragas==0.2.14
+scipy==1.15.2
+haystack-ai==2.13.1
+sentence-transformers==4.1.0
+sentencepiece==0.2.0
