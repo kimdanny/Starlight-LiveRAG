@@ -12,13 +12,13 @@ Retrieval-Augmented Generation (RAG) systems typically rely on a single fixed re
 ## Reference
 If you find our research valuable, please consider citing it as follows:
 ```
-@misc{kim2025ltrrlearningrankretrievers,
-      title={LTRR: Learning To Rank Retrievers for LLMs}, 
-      author={To Eun Kim and Fernando Diaz},
-      year={2025},
-      eprint={2506.13743},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.13743}, 
+@inproceedings{kim2026ltrr,
+author = {Kim, To Eun and Diaz, Fernando},
+title = {LTRR: Learning To Rank Retrievers for LLMs},
+year = {2026}, isbn = {9798400725999}, publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3805712.3809954},
+doi = {10.1145/3805712.3809954},
+pages = {3872–3877}, numpages = {6},
+location = {Australia}, series = {SIGIR '26}
 }
 ```
